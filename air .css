@@ -1,0 +1,19 @@
+body,
+html{
+    margin: 0%;
+    padding: 0%;
+}
+
+nav{ 
+    display: inline;
+    display: flex;
+    justify-content:space-between ;
+    padding: 40px 50px 30px 60px;
+
+    
+}
+a{
+    text-decoration: none;
+    text-transform: capitalize;
+    display:inline-block;
+}
